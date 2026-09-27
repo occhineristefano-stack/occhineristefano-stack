@@ -9,7 +9,7 @@ I approach software and workflows with a **pragmatic, builder mindset (vibe codi
 ### 🌐 Digital Growth & Creator Journey
 
 Beyond writing code, I actively manage and scale content ecosystems:
-- 🏴‍☠️ **onepiececore / The Scroll Stopper**: Daily operations across TikTok, Instagram, YouTube Shorts, and Pinterest, turning audience engagement into automated content pipelines.
+- 🏴‍☠️ **onepiececore**: Daily operations across TikTok, Instagram, YouTube Shorts, and Pinterest, turning audience engagement into automated content pipelines.
 - 🛍️ **Next Frontier**: Building audience-first channels and laying the infrastructure to integrate with the TikTok Shop affiliate ecosystem.
 - 💡 **Creator-Driven Tech**: Most of my technical projects exist to solve real bottlenecks in content production, live broadcast engagement, and daily productivity.
 
